@@ -1,0 +1,24 @@
+.myAccordion :hover {
+  color: #ffffff !important;
+  background-color: #1b2850 !important;
+  border-radius: 5px;
+}
+.myAccordion {
+  padding-inline: 10px 10px !important;
+  margin:  7px 7px;
+  
+}
+.myAccordion1 {
+  padding-block: 10px;
+  padding-inline: 20px;
+  margin-inline: 17px;
+  border-radius: 5px;
+}
+.myIcon {
+  margin-right: 10px;
+  font-size: 20px;
+}
+.activeClass {
+  color: #ffffff;
+  background: #1b2850;
+}

@@ -1,0 +1,15 @@
+.inputContainer {
+  border: 1px solid rgba(145, 158, 171, 0.32);
+  border-radius: 5px;
+  padding: 5px 5px;
+}
+.input {
+  border: none !important;
+  outline: none;
+}
+.card {
+  border: 1px solid #e8ebed;
+  border-radius: 6px;
+  padding: 20px;
+  background-color: #fff;
+}
